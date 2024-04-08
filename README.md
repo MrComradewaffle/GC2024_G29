@@ -4,3 +4,4 @@ List of hardware:
   -ilicone Wearable Sensors
   -ESP32 with additional pins 
 
+
